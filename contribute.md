@@ -6,8 +6,6 @@
 
 ### 2. Pull Request를 통해 참여하는 방법
 
-[우아한 테크코스의 코드리뷰 프로세스](https://github.com/woowacourse/woowacourse-docs/blob/master/maincourse/review-step1.md)에 보다 친절한 설명이 있습니다. 
-
 #### 1. Fork this repository
 
 #### 2. Clone forked repository
